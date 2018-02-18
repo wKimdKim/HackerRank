@@ -6,7 +6,10 @@ namespace HackerRank
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            LeftRotation test = new LeftRotation();
+            test.Run();                                 // Timed out on last two
+
+
         }
     }
 }
