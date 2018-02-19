@@ -19,7 +19,7 @@ namespace HackerRank
 
             foreach (char character in input1)
             {
-                var letterAsc = (int)Convert.ToChar(character);
+                var letterAsc = (int)character;
                 var index = letterAsc - offset;
                 recordArray[index]++;
 
@@ -27,7 +27,7 @@ namespace HackerRank
 
             foreach (char character in input2)
             {
-                var letterAsc = (int)Convert.ToChar(character);
+                var letterAsc = (int)character;
                 var index = letterAsc - offset;
                 recordArray[index]--;
 
