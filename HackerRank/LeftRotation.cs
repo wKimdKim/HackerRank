@@ -9,7 +9,8 @@ namespace HackerRank
         {
         }
 
-        public void Run(){
+        public void Run()
+        {
             string holder;
             var firstInput = Console.ReadLine();
             var secondInput = Console.ReadLine();

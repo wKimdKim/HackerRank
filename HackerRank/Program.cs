@@ -7,8 +7,10 @@ namespace HackerRank
         public static void Main(string[] args)
         {
             LeftRotation test = new LeftRotation();
-            test.Run();                                 // Timed out on last two
+            //test.Run();                                 // Timed out on last two
 
+            Anagram test2 = new Anagram();
+            test2.Run();                                  // Full complete
 
         }
     }
