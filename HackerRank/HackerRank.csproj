@@ -37,6 +37,7 @@
     <Compile Include="LeftRotation.cs" />
     <Compile Include="Anagram.cs" />
     <Compile Include="Fibonacci.cs" />
+    <Compile Include="RansomNote.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
