@@ -16,7 +16,10 @@ namespace HackerRank
             //test3.Run();
 
             RansomNote test4 = new RansomNote();
-            test4.Run();
+            //test4.Run();
+
+            LonelyInteger test5 = new LonelyInteger();
+            //test5.Run();
 
         }
     }
